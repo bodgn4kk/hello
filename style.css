@@ -1,0 +1,161 @@
+header a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+.container{
+    width: 1240px;
+    margin: 0 auto;
+    font-family: "Heebo";
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    height: 50px;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+}
+.wrapper{
+    width: 850px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.left{
+    width: 505px;
+}
+.button{
+    background-color: #FF6464;
+    border: none;
+    color: white;
+    width: 205px;
+    height: 45px;
+    font-size: 16px;
+}
+.wrapper-post h3{
+    margin: 10px;
+}
+.wrapper-post{
+    display: flex;
+    flex-direction: row;
+    height: 295px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.post-one{
+    background-color: #fff;
+    border-radius: 5px;
+    width: 418px;
+    height: 295px;
+    margin: 0 auto;
+}
+.lorem-two{
+    width: 368px;
+    margin: 10px;
+    margin-top: 20px;
+}
+.link-post-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+    margin: 0 auto;
+    width: 90%;
+}
+.link-post-top a{
+    text-decoration: none;
+    color: #00A8CC;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.link-post-top h4{
+    margin-left: 63px;
+}
+.post-two{
+    width: 418px;
+    border-radius: 5px;
+    background-color: #fff;
+    height: 295px;
+    margin: 0 auto;
+}
+.posts{
+    background-color: #EDF7FA;
+    width: 100%;
+    height: 400px;
+}
+.date-two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+    margin-right: 110px;
+}
+.posts-one{
+    display: flex;
+    flex-direction: row;
+}
+.date{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    justify-content: space-between;
+    margin-right: 135px;
+}
+.lorem-one{
+    width: 368px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.news-three{
+    margin: 0 auto;
+}
+.news{
+    width: 860px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 128px;
+    justify-content: space-between;
+}
+.data-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 130px;
+}
+.right-news{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.bottom-h4{
+    margin-left: 130px;
+}
+.tventy{
+    background-color: black;
+    color: white;
+    width: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+.lorem-bottom{
+    width: 505px;
+}
+.footer{
+    margin: 0 auto;
+}
+.a{
+    margin: 0 auto;
+    width: 190px;
+    display: flex;
+    justify-content: space-between;
+}
+.last-p{
+    margin: 0 auto;
+    text-align: center;
+}
+.footer{
+    margin-top: 100px;
+}
